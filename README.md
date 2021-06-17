@@ -1,9 +1,3 @@
-PUBLISHED
+**Hello World** 👋
 
-CODENAME: ANDROMEDA (CPS Schedule)
-CODENAME: ALNILAM (CPS Clubs Calendar)
-
-DEVELOPMENT
-
-CODENAME: ANTARES
-CODENAME: ALTAIR
+I'm an Apple Developer committed to making magic.
