@@ -1,3 +1,3 @@
 **Hello World** 👋
 
-I'm an Apple Developer committed to making magic.
+I'm just your friendly neighborhood Apple Developer making some magic.
