@@ -3,7 +3,7 @@
 I'm just your friendly neighborhood developer. Well, I'm also<br/>
 - **a ECE+BME student at Carnegie Mellon**<br/>
 - **founder and captain of the [iTeam](https://github.com/cps-innovation-team) @ CPS**<br/>
-- **co-founder and CTO of Stocked, LLC**
+- **co-founder and CTO of Kairos Trader, LLC**
 
 I'm fluent in `Swift` `Python` `C`, proficient in `JS` `Arduino/C++` and a master at Stack Overflow.
 
