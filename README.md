@@ -3,8 +3,10 @@
 I'm just your friendly neighborhood developer. Well, I'm also<br/>
 - **a ECE+BME student at Carnegie Mellon**<br/>
 - **founder of the [Innovation Team](https://github.com/cps-innovation-team) @ CPS**<br/>
+- **member of the [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space) @ CMU**
+- **avionics/mechanical on [Carnegie Mellon Rocket Command](https://jefferyjohn.github.io/rocket/)**
 
-I'm fluent in `Swift` `Python` `C`, proficient in `JS` `Arduino/C++`, and a master at Stack Overflow.
+I'm fluent in `Swift` `Python` `C`, proficient in `Arduino/C++`, familiar with `JS` `MATLAB` `x84-64`, and a master at Stack Overflow. I'm also in the process of putting my `CAD` and `PCB` stuff on here.
 
 Feel free to reach out to me at [rahimmalik@cmu.edu](mailto:rahimmalik@cmu.edu) before AI takes our jobs.
 
