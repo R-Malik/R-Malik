@@ -1,6 +1,6 @@
 **Hello World** 👋
 
-I'm just your friendly neighborhood developer. Well, I'm also<br/>
+I'm just your friendly neighborhood engineer. Well, I'm also<br/>
 - **a ECE+BME student at Carnegie Mellon**<br/>
 - **founder of the [Innovation Team](https://github.com/cps-innovation-team) @ CPS**<br/>
 - **member of the [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space) @ CMU**
