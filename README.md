@@ -3,7 +3,7 @@
 I'm just your friendly neighborhood engineer. Well, I'm also<br/>
 - **a ECE+BME student at Carnegie Mellon**<br/>
 - **founder of the [Innovation Team](https://github.com/cps-innovation-team) @ CPS**<br/>
-- **member of the [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space) @ CMU**
+- **project lead in the [Hacker Fab](https://docs.hackerfab.org/hacker-fab-space) @ CMU**
 - **avionics/mechanical on [Carnegie Mellon Rocket Command](https://jefferyjohn.github.io/rocket/)**
 
 I'm fluent in `Swift` `Python` `C`, familiar with `Arduino/C++` `JS` `MATLAB` `R` `x84-64`, and a master at Stack Overflow. I'm also in the process of putting my `CAD` and `PCB` stuff on here.
